@@ -1,0 +1,88 @@
+[2024-05-15 17:41:38,464] INFO: 
+
+pretrain the aux triples...
+[2024-05-15 17:44:38,149] INFO: GPU usage for embeddings 7179
+[2024-05-15 17:44:38,744] INFO: GPU usage for backward 7943
+[2024-05-15 17:44:38,761] INFO: Training for aux data: Epoch 0001 | Batch 0001 | Loss 0.6933 | Best MRR 0.0000 | [180.3 s]
+[2024-05-15 17:44:57,813] INFO: GPU usage for embeddings 7947
+[2024-05-15 17:44:58,856] INFO: GPU usage for backward 7941
+[2024-05-15 17:44:58,856] INFO: Training for aux data: Epoch 0001 | Batch 0002 | Loss 0.6919 | Best MRR 0.0000 | [200.4 s]
+[2024-05-15 17:45:19,227] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:19,632] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:19,642] INFO: Training for aux data: Epoch 0001 | Batch 0003 | Loss 0.6899 | Best MRR 0.0000 | [221.2 s]
+[2024-05-15 17:45:24,801] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:25,434] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:25,444] INFO: Training for aux data: Epoch 0001 | Batch 0004 | Loss 0.6870 | Best MRR 0.0000 | [227.0 s]
+[2024-05-15 17:45:26,604] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:27,010] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:27,012] INFO: Training for aux data: Epoch 0001 | Batch 0005 | Loss 0.6825 | Best MRR 0.0000 | [228.5 s]
+[2024-05-15 17:45:27,778] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:28,198] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:28,201] INFO: Training for aux data: Epoch 0001 | Batch 0006 | Loss 0.6757 | Best MRR 0.0000 | [229.7 s]
+[2024-05-15 17:45:28,947] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:29,341] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:29,351] INFO: Training for aux data: Epoch 0001 | Batch 0007 | Loss 0.6661 | Best MRR 0.0000 | [230.9 s]
+[2024-05-15 17:45:31,436] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:31,864] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:31,874] INFO: Training for aux data: Epoch 0001 | Batch 0008 | Loss 0.6527 | Best MRR 0.0000 | [233.4 s]
+[2024-05-15 17:45:32,048] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:32,348] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:32,348] INFO: Training for aux data: Epoch 0001 | Batch 0009 | Loss 0.6341 | Best MRR 0.0000 | [233.9 s]
+[2024-05-15 17:45:38,657] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:39,056] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:39,056] INFO: Training for aux data: Epoch 0002 | Batch 0001 | Loss 0.6101 | Best MRR 0.0000 | [240.6 s]
+[2024-05-15 17:45:39,410] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:39,820] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:39,830] INFO: Training for aux data: Epoch 0002 | Batch 0002 | Loss 0.5786 | Best MRR 0.0000 | [241.4 s]
+[2024-05-15 17:45:40,165] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:40,564] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:40,574] INFO: Training for aux data: Epoch 0002 | Batch 0003 | Loss 0.5392 | Best MRR 0.0000 | [242.1 s]
+[2024-05-15 17:45:40,932] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:41,329] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:41,333] INFO: Training for aux data: Epoch 0002 | Batch 0004 | Loss 0.4883 | Best MRR 0.0000 | [242.9 s]
+[2024-05-15 17:45:41,705] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:42,106] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:42,106] INFO: Training for aux data: Epoch 0002 | Batch 0005 | Loss 0.4304 | Best MRR 0.0000 | [243.6 s]
+[2024-05-15 17:45:42,489] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:42,889] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:42,899] INFO: Training for aux data: Epoch 0002 | Batch 0006 | Loss 0.3633 | Best MRR 0.0000 | [244.4 s]
+[2024-05-15 17:45:43,248] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:43,651] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:43,652] INFO: Training for aux data: Epoch 0002 | Batch 0007 | Loss 0.2979 | Best MRR 0.0000 | [245.2 s]
+[2024-05-15 17:45:44,034] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:44,437] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:44,437] INFO: Training for aux data: Epoch 0002 | Batch 0008 | Loss 0.2349 | Best MRR 0.0000 | [246.0 s]
+[2024-05-15 17:45:44,607] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:44,892] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:44,895] INFO: Training for aux data: Epoch 0002 | Batch 0009 | Loss 0.1895 | Best MRR 0.0000 | [246.4 s]
+[2024-05-15 17:45:45,432] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:45,836] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:45,836] INFO: Training for aux data: Epoch 0003 | Batch 0001 | Loss 0.1701 | Best MRR 0.0000 | [247.4 s]
+[2024-05-15 17:45:46,188] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:46,583] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:46,592] INFO: Training for aux data: Epoch 0003 | Batch 0002 | Loss 0.1737 | Best MRR 0.0000 | [248.1 s]
+[2024-05-15 17:45:46,929] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:47,333] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:47,336] INFO: Training for aux data: Epoch 0003 | Batch 0003 | Loss 0.1896 | Best MRR 0.0000 | [248.9 s]
+[2024-05-15 17:45:47,724] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:48,128] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:48,128] INFO: Training for aux data: Epoch 0003 | Batch 0004 | Loss 0.2087 | Best MRR 0.0000 | [249.7 s]
+[2024-05-15 17:45:48,477] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:48,886] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:48,886] INFO: Training for aux data: Epoch 0003 | Batch 0005 | Loss 0.2184 | Best MRR 0.0000 | [250.4 s]
+[2024-05-15 17:45:49,232] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:49,643] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:49,643] INFO: Training for aux data: Epoch 0003 | Batch 0006 | Loss 0.2200 | Best MRR 0.0000 | [251.2 s]
+[2024-05-15 17:45:49,990] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:50,389] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:50,399] INFO: Training for aux data: Epoch 0003 | Batch 0007 | Loss 0.2143 | Best MRR 0.0000 | [251.9 s]
+[2024-05-15 17:45:50,789] INFO: GPU usage for embeddings 7941
+[2024-05-15 17:45:51,201] INFO: GPU usage for backward 7941
+[2024-05-15 17:45:51,201] INFO: Training for aux data: Epoch 0003 | Batch 0008 | Loss 0.2055 | Best MRR 0.0000 | [252.7 s]
+[2024-05-15 17:45:51,387] INFO: GPU usage for embeddings 7939
+[2024-05-15 17:45:51,654] INFO: GPU usage for backward 7939
+[2024-05-15 17:45:51,654] INFO: Training for aux data: Epoch 0003 | Batch 0009 | Loss 0.1937 | Best MRR 0.0000 | [253.2 s]
+[2024-05-15 17:45:51,715] INFO: Done pretrain aux triples. [253.3 s]
+[2024-05-15 17:45:51,715] INFO: 
+
+Test for aux pretrained model

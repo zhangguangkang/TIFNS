@@ -1,0 +1,6 @@
+[2024-03-18 20:04:07,048] INFO: 
+
+pretrain the aux triples...
+[2024-03-18 20:08:35,489] INFO: GPU usage for embeddings 5315
+[2024-03-18 20:08:57,141] INFO: GPU usage for backward 6079
+[2024-03-18 20:10:26,854] INFO: Training for aux data: Epoch 0001 | Batch 0001 | Loss 0.6933 | Best MRR 0.0000 | [379.6 s]
